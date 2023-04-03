@@ -96,7 +96,7 @@ export default function CreateListing() {
     if (geolocationEnabled) {
       console.log(address);
       const response = await fetch(
-        `https://maps.googleapis.com/maps/api/geocode/json?address=${address}&key=AIzaSyBZyMuzfCMBIXesadEuHatr0nGyHfuIgQc`
+        `https://maps.googleapis.com/maps/api/geocode/json?address=${address}&key={key}`
       );
       const data = await response.json();
       console.log(data);
