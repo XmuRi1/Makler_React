@@ -1,5 +1,5 @@
 # Makler_react
-This is a demo website for a real estate company built with React, Firebase, Leaflet, SwiperJs Next.js, and Tailwind CSS. It allows users to search for properties based on location, property type, and price range. The site also includes an interactive map with markers showing the locations of available properties.
+This is a demo website for a real estate company built with React, Firebase, Leaflet, SwiperJs, and Tailwind CSS. It allows users to search for properties based on location, property type, and price range. The site also includes an interactive map with markers showing the locations of available properties.
 
 
 
@@ -10,7 +10,6 @@ Responsive design for mobile and desktop screens
 Pagination for search results
 ## Tech Stack:
 - React
-- Next.js
 - Firebase
 - Leaflet
 - Tailwind CSS
